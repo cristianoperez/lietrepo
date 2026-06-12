@@ -42,7 +42,7 @@ cloudstream {
     version = 3
     description = "PobreFlix, assistir online, filmes, séries, animes, doramas"
     language = "pt-br"
-    authors = listOf("lawlietbr")
+    authors = listOf("cristianoperez")
     status = 1 
     tvTypes = listOf("Movies", "Series", "Animes", "AsianDrama")
     iconUrl = "https://www.image2url.com/r2/default/images/1776018665375-eafe8c65-10f1-490c-9994-2f519402b6e3.png"
