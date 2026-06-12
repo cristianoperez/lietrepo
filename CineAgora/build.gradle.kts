@@ -43,7 +43,7 @@ cloudstream {
     version = 1
     description = "Assista filmes e séries online grátis em HD no CineAgora"
     language = "pt-br"
-    authors = listOf("lawlietbr")
+    authors = listOf("cristianoperez")
     status = 1
     tvTypes = listOf("Movies", "Series", "Animes")
     iconUrl = "https://cineagora.net/templates/cineagora/images/touch-icon-180x180.png"
