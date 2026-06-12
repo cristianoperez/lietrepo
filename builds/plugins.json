@@ -41,10 +41,10 @@
     },
     {
         "iconUrl": "https://cineagora.net/templates/cineagora/images/touch-icon-180x180.png",
-        "fileHash": "sha256-5e4b45ed3d8375f31cda3db5bb15df72d89dba154e7ab2bacc863a6d4944c956",
+        "fileHash": "sha256-cc2ec5ee9f41aa2f9850d958953f3455d87a58e8b0ca43b15df92f84ef5af4a1",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/cristianoperez/lietrepo",
-        "fileSize": 65434,
+        "fileSize": 66356,
         "status": 1,
         "language": "pt-br",
         "authors": [
@@ -83,10 +83,10 @@
     },
     {
         "iconUrl": "https://www.doramogo.net/assets/doramogo/images/apple-touch-icon.webp?version=200.50.10",
-        "fileHash": "sha256-e3903c01899d23e2909223abacd11dd87cd9f387ec4b1786854d84659f8c715d",
+        "fileHash": "sha256-99237d88d844b9a8ce80066962d04fbd592258ea8dbdae50c5f1f1b2471b7d77",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/cristianoperez/lietrepo",
-        "fileSize": 57401,
+        "fileSize": 57358,
         "status": 1,
         "language": "pt-br",
         "authors": [
@@ -143,10 +143,10 @@
     },
     {
         "iconUrl": "https://mendigoflix.lol/assets/favicon.png",
-        "fileHash": "sha256-d671e96c977a63caf562e49090d44ae726f35afd7bb7b3403bdec2adde05c99e",
+        "fileHash": "sha256-c599cbf9c246b8781be733eb84df3051cd70e8b966e959f4dbab1720d909c934",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/cristianoperez/lietrepo",
-        "fileSize": 54401,
+        "fileSize": 54361,
         "status": 1,
         "language": "pt-br",
         "authors": [
@@ -188,10 +188,10 @@
     },
     {
         "iconUrl": "https://www.image2url.com/r2/default/images/1776423716151-20e5aa74-a764-4d60-8575-0851d8ab37df.png",
-        "fileHash": "sha256-1ab8d2a0cd72a7f096b082dc9ed3a6f3f4848cda43fde58b9309e7eeb882ec82",
+        "fileHash": "sha256-8152669c9267f1bc510ad8b23ef065de1c2d0006d06adf59a923bdc4546a0de9",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/cristianoperez/lietrepo",
-        "fileSize": 13477,
+        "fileSize": 13481,
         "status": 1,
         "language": "pt-br",
         "authors": [
@@ -208,10 +208,10 @@
     },
     {
         "iconUrl": "https://openclipart.org/image/2400px/svg_to_png/193323/-S.png",
-        "fileHash": "sha256-70febd32e0a6e0579462342685aee5f6bd6aae14883e3ef78c19fe4d601ad4f4",
+        "fileHash": "sha256-73401790506d47677e965160cb7e9f1f0d8075fd6228a4ab4436ea2cfe1e5c4c",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/cristianoperez/lietrepo",
-        "fileSize": 52928,
+        "fileSize": 52909,
         "status": 1,
         "language": "pt-br",
         "authors": [
