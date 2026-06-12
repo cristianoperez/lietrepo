@@ -42,7 +42,7 @@ cloudstream {
     version = 2
     description = "Site de Doramas online"
     language = "pt-br"
-    authors = listOf("lawlietbr")
+    authors = listOf("cristianoperez")
     status = 1
     tvTypes = listOf("AsianDrama")
     iconUrl = "https://www.doramogo.net/assets/doramogo/images/apple-touch-icon.webp?version=200.50.10"
