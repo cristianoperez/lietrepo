@@ -42,7 +42,7 @@ cloudstream {
     version = 3
     description = "MendigoFlix - Filmes e Séries em Português"
     language = "pt-br"
-    authors = listOf("cristianoperez")
+    authors = listOf("lawlietbr")
     status = 1
     tvTypes = listOf("Movies", "Series", "Animes")
     iconUrl = "https://mendigoflix.lol/assets/favicon.png"
