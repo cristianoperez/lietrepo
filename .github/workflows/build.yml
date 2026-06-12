@@ -73,7 +73,7 @@ jobs:
 
           echo "{
             \"name\": \"lietrepo\",
-            \"iconUrl\": \"https://github.com/lawlietbr.png\",
+            \"iconUrl\": \"https://github.com/cristianoperez.png\",
             \"description\": \"Repositório Brasileiro para o Cloudstream\",
             \"manifestVersion\": 1,
             \"pluginLists\": $PLUGINS_LIST
