@@ -5,7 +5,7 @@
 
 **Deixe uma ⭐ se esse repo te ajudou**  
 
-[![Deixe uma Star](https://img.shields.io/badge/⭐_Deixe_uma_Star-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/cristianoperez/lietrepo/stargazers)
+[![Deixe uma Star](https://img.shields.io/badge/⭐_Deixe_uma_Star-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/lawlietbr/lietrepo/stargazers)
 <br>
 
 ### Por favor junte-se ao Discord para saber mais e reportar bugs
@@ -14,10 +14,10 @@
 <br>
 
 ### Estatísticas
-[![Último Commit](https://img.shields.io/github/last-commit/cristianoperez/lietrepo?style=for-the-badge&logo=github&color=9C27B0&label=Último%20commit)](https://github.com/cristianoperez/lietrepo/activity)
-[![Tamanho do Repo](https://img.shields.io/github/repo-size/cristianoperez/lietrepo?style=for-the-badge&logo=github&color=FF9800&label=Tamanho)](https://github.com/cristianoperez/lietrepo)
-[![Stars](https://img.shields.io/github/stars/cristianoperez/lietrepo?style=for-the-badge&color=FFD700&logo=github&label=Stars)](https://github.com/cristianoperez/lietrepo/stargazers)
-[![Forks](https://img.shields.io/github/forks/cristianoperez/lietrepo?style=for-the-badge&color=orange&logo=github&label=Forks)](https://github.com/cristianoperez/lietrepo/network/members)
+[![Último Commit](https://img.shields.io/github/last-commit/lawlietbr/lietrepo?style=for-the-badge&logo=github&color=9C27B0&label=Último%20commit)](https://github.com/lawlietbr/lietrepo/activity)
+[![Tamanho do Repo](https://img.shields.io/github/repo-size/lawlietbr/lietrepo?style=for-the-badge&logo=github&color=FF9800&label=Tamanho)](https://github.com/lawlietbr/lietrepo)
+[![Stars](https://img.shields.io/github/stars/lawlietbr/lietrepo?style=for-the-badge&color=FFD700&logo=github&label=Stars)](https://github.com/lawlietbr/lietrepo/stargazers)
+[![Forks](https://img.shields.io/github/forks/lawlietbr/lietrepo?style=for-the-badge&color=orange&logo=github&label=Forks)](https://github.com/lawlietbr/lietrepo/network/members)
 [![License MIT](https://img.shields.io/badge/License-MIT-8A2BE2?style=for-the-badge&logo=opensourceinitiative)](https://opensource.org/licenses/MIT)
 
 <br>
@@ -28,7 +28,7 @@
 
 **ou Copie esta URL e cole no CloudStream:**
 
-[![Copiar URL do Repositório](https://img.shields.io/badge/📋_COPIAR_URL-000000?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/cristianoperez/lietrepo/main/builds/repo.json)
+[![Copiar URL do Repositório](https://img.shields.io/badge/📋_COPIAR_URL-000000?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/lawlietbr/lietrepo/main/builds/repo.json)
 
 
 </div>

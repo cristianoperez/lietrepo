@@ -43,7 +43,7 @@ cloudstream {
     version = 1
     description = "StreamFlix - Filmes e Séries Online em Português | Lançamentos e Clássicos"
     language = "pt-br"
-    authors = listOf("cristianoperez")
+    authors = listOf("lawlietbr")
     status = 1
     tvTypes = listOf("Movies", "Series")
     iconUrl = "https://openclipart.org/image/2400px/svg_to_png/193323/-S.png"
