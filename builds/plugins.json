@@ -188,10 +188,10 @@
     },
     {
         "iconUrl": "https://www.image2url.com/r2/default/images/1776423716151-20e5aa74-a764-4d60-8575-0851d8ab37df.png",
-        "fileHash": "sha256-8152669c9267f1bc510ad8b23ef065de1c2d0006d06adf59a923bdc4546a0de9",
+        "fileHash": "sha256-474d05e3cda4a9186b560d48bef7a2502fc5bb8b1506e37107e9a53c69977af7",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/cristianoperez/lietrepo",
-        "fileSize": 13481,
+        "fileSize": 15131,
         "status": 1,
         "language": "pt-br",
         "authors": [
